@@ -15,5 +15,6 @@ public class Main {
     public static void main(String[] args) {
 
         JFrame principal = new VentanaPrincipal();
+        //System.out.println("Hi GitHub :)");
     }
 }
