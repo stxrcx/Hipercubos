@@ -1,4 +1,4 @@
-# Hypercubes :tw-1f3b2::tw-1f525:
+# Hypercubes
 
 ## Description
 This is a Java program that is based on the hypercube connection network for two hypercubes. With this program, you can select a sending node and a receiving node to obtain the shortest path between them.
